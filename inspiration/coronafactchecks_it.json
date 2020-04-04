@@ -1,6 +1,147 @@
 {
   "claims": [
     {
+      "text": "Non ci sono prove che cani e animali domestici trasmettano il coronavirus",
+      "claimant": "Sergio Costa",
+      "claimDate": "2020-03-26T15:46:51Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Pagella Politica",
+            "site": "pagellapolitica.it"
+          },
+          "url": "https://pagellapolitica.it/dichiarazioni/8559/non-ci-sono-prove-che-cani-e-animali-domestici-trasmettano-il-coronavirus",
+          "title": "Non ci sono prove che cani e animali domestici trasmettano il coronavirus",
+          "reviewDate": "2020-03-27T15:39:12Z",
+          "textualRating": "Vero",
+          "languageCode": "it"
+        }
+      ]
+    },
+    {
+      "text": "L’inquinamento ha peggiorato la diffusione del nuovo coronavirus?",
+      "claimant": "Silvio Berlusconi",
+      "claimDate": "2020-03-26T02:34:17Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Pagella Politica",
+            "site": "pagellapolitica.it"
+          },
+          "url": "https://pagellapolitica.it/dichiarazioni/8558/linquinamento-ha-peggiorato-la-diffusione-del-nuovo-coronavirus",
+          "title": "L’inquinamento ha peggiorato la diffusione del nuovo coronavirus?",
+          "reviewDate": "2020-03-26T14:31:32Z",
+          "textualRating": "Vero",
+          "languageCode": "it"
+        }
+      ]
+    },
+    {
+      "text": "Marattin fa un po’ di confusione sul calo dei contagiati da coronavirus",
+      "claimant": "Luigi Marattin",
+      "claimDate": "2020-03-24T04:04:51Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Pagella Politica",
+            "site": "pagellapolitica.it"
+          },
+          "url": "https://pagellapolitica.it/dichiarazioni/8555/marattin-fa-un-po-di-confusione-sul-calo-dei-contagiati-da-coronavirus",
+          "title": "Marattin fa un po’ di confusione sul calo dei contagiati da coronavirus",
+          "reviewDate": "2020-03-25T13:26:33Z",
+          "textualRating": "Nì",
+          "languageCode": "it"
+        }
+      ]
+    },
+    {
+      "text": "I farmaci a base di ibuprofene nei pazienti col coronavirus producono un'accelerazione della malattia, fino alla morte",
+      "claimDate": "2020-03-22T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Pagella Politica",
+            "site": "pagellapolitica.it"
+          },
+          "url": "https://pagellapolitica.it/bufale/show/1016/notizia-falsa-i-farmaci-a-base-di-ibuprofene-covid-19-e-laccelerazione-della-malattia",
+          "title": "Notizia falsa: i farmaci a base di ibuprofene, Covid-19 e l'accelerazione della malattia",
+          "reviewDate": "2020-03-23T00:00:00Z",
+          "textualRating": "Falso",
+          "languageCode": "it"
+        }
+      ]
+    },
+    {
+      "text": "«Coronavirus, Abidol è un farmaco utilizzato contro i più comuni virus dell'influenza, funziona impedendo al virus di attraversare la membrana delle cellule e di penetrare al loro interno per replicarsi»",
+      "claimant": "Elio Lannutti",
+      "claimDate": "2020-03-16T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Pagella Politica",
+            "site": "pagellapolitica.it"
+          },
+          "url": "https://pagellapolitica.it/dichiarazioni/8552/la-bufala-del-farmaco-contro-il-coronavirus-ripresa-da-un-senatore-del-m5s",
+          "title": "La bufala del farmaco contro il coronavirus, ripresa da un senatore del M5s",
+          "reviewDate": "2020-03-20T00:00:00Z",
+          "textualRating": "Panzana pazzesca",
+          "languageCode": "it"
+        }
+      ]
+    },
+    {
+      "text": "L'Arbidol è un farmaco russo che previene e cura il nuovo coronavirus Sars-Cov-2",
+      "claimDate": "2020-03-18T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Pagella Politica",
+            "site": "pagellapolitica.it"
+          },
+          "url": "https://pagellapolitica.it/bufale/show/1005/no-non-esiste-un-farmaco-russo-che-previene-o-cura-covid-19",
+          "title": "No, non esiste un farmaco russo che previene o cura il Covid-19",
+          "reviewDate": "2020-03-18T00:00:00Z",
+          "textualRating": "Falso",
+          "languageCode": "it"
+        }
+      ]
+    },
+    {
+      "text": "Cristiano Ronaldo ha trasformato i suoi alberghi in ospedali gratuiti per la lotta al nuovo coronavirus",
+      "claimDate": "2020-03-15T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Pagella Politica",
+            "site": "pagellapolitica.it"
+          },
+          "url": "https://pagellapolitica.it/bufale/show/1001/la-bufala-su-cr7-e-gli-hotel-trasformati-in-ospedali",
+          "title": "La bufala su CR7 e gli hotel trasformati in ospedali",
+          "reviewDate": "2020-03-16T00:00:00Z",
+          "textualRating": "Falso",
+          "languageCode": "it"
+        }
+      ]
+    },
+    {
+      "text": "Che cosa dicono i primi dati sui morti con il coronavirus in Italia",
+      "claimant": "Giuseppe Conte",
+      "claimDate": "2020-03-07T23:30:18Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Pagella Politica",
+            "site": "pagellapolitica.it"
+          },
+          "url": "https://pagellapolitica.it/dichiarazioni/8544/che-cosa-dicono-i-primi-dati-sui-morti-con-il-coronavirus-in-italia",
+          "title": "Che cosa dicono i primi dati sui morti con il coronavirus in Italia",
+          "reviewDate": "2020-03-09T14:31:12Z",
+          "textualRating": "Vero",
+          "languageCode": "it"
+        }
+      ]
+    },
+    {
       "text": "«La banca mi deve dare con la garanzia dello Stato [...] e deve essere fatto con una procedura automatica come in Svizzera, non con la cultura dei moduli»",
       "claimant": "Matteo Renzi",
       "claimDate": "2020-03-28T00:00:00Z",
@@ -18,69 +159,19 @@
       ]
     },
     {
-      "text": "L’Italia non è stata la prima in Europa a isolare il nuovo coronavirus",
-      "claimant": "Nicola Zingaretti",
-      "claimDate": "2020-02-01T23:00:00Z",
+      "text": "Davvero la Ue «non esiste» nel contrasto al nuovo coronavirus?",
+      "claimant": "Giorgia Meloni",
+      "claimDate": "2020-02-23T23:53:00Z",
       "claimReview": [
         {
           "publisher": {
             "name": "Pagella Politica",
             "site": "pagellapolitica.it"
           },
-          "url": "https://pagellapolitica.it/dichiarazioni/8512/litalia-non-e-stata-la-prima-in-europa-a-isolare-il-nuovo-coronavirus",
-          "reviewDate": "2020-02-03T13:03:56Z",
+          "url": "https://pagellapolitica.it/dichiarazioni/8534/davvero-la-ue-non-esiste-nel-contrasto-al-nuovo-coronavirus",
+          "title": "Davvero la Ue «non esiste» nel contrasto al nuovo coronavirus?",
+          "reviewDate": "2020-02-24T13:45:07Z",
           "textualRating": "Nì",
-          "languageCode": "it"
-        }
-      ]
-    },
-    {
-      "text": "No, il nuovo coronavirus non è pericoloso «come la peste e il colera»",
-      "claimant": "Matteo Salvini",
-      "claimDate": "2020-01-30T20:45:18Z",
-      "claimReview": [
-        {
-          "publisher": {
-            "name": "Pagella Politica",
-            "site": "pagellapolitica.it"
-          },
-          "url": "https://pagellapolitica.it/dichiarazioni/8513/no-il-nuovo-coronavirus-non-e-pericoloso-come-la-peste-e-il-colera",
-          "reviewDate": "2020-02-03T15:24:40Z",
-          "textualRating": "Nì",
-          "languageCode": "it"
-        }
-      ]
-    },
-    {
-      "text": "«Coronavirus, Abidol è un farmaco utilizzato contro i più comuni virus dell'influenza, funziona impedendo al virus di attraversare la membrana delle cellule e di penetrare al loro interno per replicarsi»",
-      "claimant": "Elio Lannutti",
-      "claimDate": "2020-03-16T00:00:00Z",
-      "claimReview": [
-        {
-          "publisher": {
-            "name": "Pagella Politica",
-            "site": "pagellapolitica.it"
-          },
-          "url": "https://pagellapolitica.it/dichiarazioni/8552/la-bufala-del-farmaco-contro-il-coronavirus-ripresa-da-un-senatore-del-m5s",
-          "reviewDate": "2020-03-20T00:00:00Z",
-          "textualRating": "Panzana pazzesca",
-          "languageCode": "en"
-        }
-      ]
-    },
-    {
-      "text": "La strada e il lavoro uccidono molto di più del nuovo coronavirus",
-      "claimant": "Michele Dell'Orco",
-      "claimDate": "2020-02-03T07:06:52Z",
-      "claimReview": [
-        {
-          "publisher": {
-            "name": "Pagella Politica",
-            "site": "pagellapolitica.it"
-          },
-          "url": "https://pagellapolitica.it/dichiarazioni/8519/la-strada-e-il-lavoro-uccidono-molto-di-piu-del-nuovo-coronavirus",
-          "reviewDate": "2020-02-05T16:22:01Z",
-          "textualRating": "C'eri quasi",
           "languageCode": "it"
         }
       ]
@@ -99,6 +190,78 @@
           "reviewDate": "2020-03-17T00:00:00Z",
           "textualRating": "Pinocchio andante",
           "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "«[Per il nuovo coronavirus 2019-nCoV] il periodo di incubazione non è più 15 giorni, ma 24»",
+      "claimant": "Guido Crosetto",
+      "claimDate": "2020-02-11T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Pagella Politica",
+            "site": "pagellapolitica.it"
+          },
+          "url": "https://pagellapolitica.it/dichiarazioni/8525/il-nuovo-coronavirus-ha-un-periodo-di-incubazione-fino-a-24-giorni",
+          "title": "Il nuovo coronavirus ha un periodo di incubazione fino a 24 giorni?",
+          "reviewDate": "2020-02-11T00:00:00Z",
+          "textualRating": "Pinocchio andante",
+          "languageCode": "it"
+        }
+      ]
+    },
+    {
+      "text": "La strada e il lavoro uccidono molto di più del nuovo coronavirus",
+      "claimant": "Michele Dell'Orco",
+      "claimDate": "2020-02-03T11:26:23Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Pagella Politica",
+            "site": "pagellapolitica.it"
+          },
+          "url": "https://pagellapolitica.it/dichiarazioni/8519/la-strada-e-il-lavoro-uccidono-molto-di-piu-del-nuovo-coronavirus",
+          "title": "La strada e il lavoro uccidono molto di più del nuovo coronavirus",
+          "reviewDate": "2020-02-05T16:22:01Z",
+          "textualRating": "C'eri quasi",
+          "languageCode": "it"
+        }
+      ]
+    },
+    {
+      "text": "No, il nuovo coronavirus non è pericoloso «come la peste e il colera»",
+      "claimant": "Matteo Salvini",
+      "claimDate": "2020-01-30T09:18:24Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Pagella Politica",
+            "site": "pagellapolitica.it"
+          },
+          "url": "https://pagellapolitica.it/dichiarazioni/8513/no-il-nuovo-coronavirus-non-e-pericoloso-come-la-peste-e-il-colera",
+          "title": "No, il nuovo coronavirus non è pericoloso «come la peste e il colera»",
+          "reviewDate": "2020-02-03T15:24:40Z",
+          "textualRating": "Nì",
+          "languageCode": "it"
+        }
+      ]
+    },
+    {
+      "text": "L’Italia non è stata la prima in Europa a isolare il nuovo coronavirus",
+      "claimant": "Nicola Zingaretti",
+      "claimDate": "2020-02-01T23:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Pagella Politica",
+            "site": "pagellapolitica.it"
+          },
+          "url": "https://pagellapolitica.it/dichiarazioni/8512/litalia-non-e-stata-la-prima-in-europa-a-isolare-il-nuovo-coronavirus",
+          "title": "L’Italia non è stata la prima in Europa a isolare il nuovo coronavirus",
+          "reviewDate": "2020-02-03T13:03:56Z",
+          "textualRating": "Nì",
+          "languageCode": "it"
         }
       ]
     }

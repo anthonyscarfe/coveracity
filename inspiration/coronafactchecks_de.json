@@ -1,6 +1,40 @@
 {
   "claims": [
     {
+      "text": "Die großen Supermarktketten in Deutschland öffnen in der Corona-Krise künftig nur noch montags und freitags.",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Correctiv",
+            "site": "correctiv.org"
+          },
+          "url": "https://correctiv.org/faktencheck/2020/03/26/gefaelschter-focus-artikel-nein-die-supermaerkte-in-deutschland-schliessen-nicht-an-vier-wochentagen/",
+          "title": "Gefälschter „Focus“-Artikel: Nein, die Supermärkte in Deutschland schließen nicht an vier Wochentagen",
+          "reviewDate": "2020-03-26T15:57:49Z",
+          "textualRating": "Völlig falsch. Der Screenshot ist eine Fälschung. Die Supermärkte in Deutschland haben weiterhin normal geöffnet.",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "Asylbewerber wurden während der Corona-Maßnahmen heimlich nach Görlitz gebracht",
+      "claimant": "Görlitz bewegt sich",
+      "claimDate": "2020-03-10T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Correctiv",
+            "site": "correctiv.org"
+          },
+          "url": "https://correctiv.org/faktencheck/2020/03/25/nein-es-wurden-keine-asylbewerber-heimlich-waehrend-der-corona-massnahmen-nach-goerlitz-gebracht/",
+          "title": "Nein, es wurden keine Asylbewerber „heimlich“ während der Corona-Maßnahmen nach Görlitz gebracht",
+          "reviewDate": "2020-03-25T13:28:24Z",
+          "textualRating": "Größtenteils falsch. Am 10. März kamen regulär 23 Asylbewerber aus Erstaufnahmeeinrichtungen nach Görlitz. Laut Landratsamt Görlitz werden regelmäßig Personen auf die Städte aufgeteilt.",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
       "text": "Alkohol hilft gegen Coronaviren",
       "claimant": "Whatsapp-Kettenbrief",
       "claimReview": [
@@ -12,23 +46,6 @@
           "url": "https://correctiv.org/faktencheck/2020/04/01/nein-alkohol-zu-trinken-toetet-das-coronavirus-nicht-ab/",
           "reviewDate": "2020-04-01T17:03:41Z",
           "textualRating": "Völlig falsch. Die Meldung ist eine Fälschung. Alkohol hilft nicht gegen Coronaviren im Mund und Rachenraum.",
-          "languageCode": "de"
-        }
-      ]
-    },
-    {
-      "text": "Corona: Einreisestopps in EU sollen nicht für Asylbewerber gelten",
-      "claimant": "Philosophia Perennis",
-      "claimDate": "2020-03-17T00:00:00Z",
-      "claimReview": [
-        {
-          "publisher": {
-            "name": "Correctiv",
-            "site": "correctiv.org"
-          },
-          "url": "https://correctiv.org/faktencheck/2020/03/20/coronavirus-ja-asylbewerber-sind-vom-einreisestopp-ausgenommen-sie-sollen-aber-getestet-werden/",
-          "reviewDate": "2020-03-20T16:39:45Z",
-          "textualRating": "Teilweise falsch. Asylbewerber dürfen unter bestimmten Umständen weiter einreisen, sollen aber auch mehrfach gesundheitlich durchgecheckt werden.",
           "languageCode": "de"
         }
       ]
@@ -49,19 +66,164 @@
       ]
     },
     {
-      "text": "Ratschläge und Gerüchte zum Einfluss bestimmter Medikamente auf eine Coronavirus-Infektion sorgen derzeit für Verunsicherung. In sozialen Netzwerken verbreitete sich eine Nachricht, der zufolge Ibuprofen die Vermehrung von Coronaviren begünstige. Dies hätten Forscher der Uniklinik Wien herausgefunden, hieß es",
-      "claimant": "Frank Graf von Kronenberg",
-      "claimDate": "2020-03-14T00:00:00Z",
+      "text": "Frankreichs Regierung hat Mitte März strikte Maßnahmen zur Eindämmung der Corona-Krise ergriffen. Auch Hilfsleistungen wurden angekündigt. Über diese Hilfen gibt es nun Falschinformationen im Netz. So heißt es, Frankreich werde die Zahlungen von Miete, Strom, Wasser und Gas aussetzen. Auch Steuern müssten nicht mehr bezahlt werden, wird in einigen Posts behauptet.",
+      "claimant": "Dirk Schorra",
+      "claimDate": "2020-03-18T00:00:00Z",
       "claimReview": [
         {
           "publisher": {
             "name": "Presseportal",
             "site": "presseportal.de"
           },
-          "url": "https://www.presseportal.de/pm/133833/4548932",
-          "reviewDate": "2020-03-16T00:00:00Z",
-          "textualRating": "Die Uniklinik Wien distanziert sich von den Behauptungen und spricht von \"Fake News\". Es ist nicht belegt, dass Ibuprofen die Vermehrung des Virus Sars-CoV-2 verstärkt.",
-          "languageCode": "en"
+          "url": "https://www.presseportal.de/pm/133833/4554009",
+          "title": "Frankreich: Wasser-, Gas- und Mietzahlungen können nur für kleine Unternehmen ausgesetzt werden",
+          "reviewDate": "2020-03-22T00:00:00Z",
+          "textualRating": "Die genannten Hilfsleistungen sind nicht für Privatpersonen, sondern für die französische Wirtschaft gedacht. Bei kleinen Unternehmen, die durch die Corona-Krise gefährdet sind, können Miet-, Strom-, Wasser- und Gaszahlungen sowie Steuer- und Sozialausgaben ausgesetzt werden.",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "Deutschland debattiert vor dem Hintergrund des sich ausbreitenden Coronavirus auch über Ausgangssperren, einige Städte haben diese schon verhängt. Nun wurde eine Sprachnachricht über Messengerdienste verbreitet, auch in Chemnitz habe der Stadtrat eine solche Maßnahme für die sächsische Großstadt ab 23. März beschlossen. Die Aufnahme stammt allem Anschein nach vom 19. März.",
+      "claimant": "Siegfried Dold",
+      "claimDate": "2020-03-20T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Presseportal",
+            "site": "presseportal.de"
+          },
+          "url": "https://www.presseportal.de/pm/133833/4553557",
+          "title": "Sprachnachricht über Ausgangssperre in Chemnitz ist ein Fake",
+          "reviewDate": "2020-03-21T00:00:00Z",
+          "textualRating": "Es gab gar keine Stadtratssitzung. Die Stadt und auch die angebliche Quelle - die AfD-Stadtratsfraktion - bezeichnen die Aussage als Falschbehauptung.",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "Deutschland debattiert vor dem Hintergrund des sich ausbreitenden Coronavirus auch über Ausgangssperren, einige Städte haben diese schon verhängt. Nun wurde eine Sprachnachricht über Messengerdienste verbreitet, auch in Chemnitz habe der Stadtrat eine solche Maßnahme für die sächsische Großstadt ab 23. März beschlossen. Die Aufnahme stammt allem Anschein nach vom 19. März.",
+      "claimant": "Jochen Jobo Bonitz",
+      "claimDate": "2020-03-20T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Presseportal",
+            "site": "presseportal.de"
+          },
+          "url": "https://www.presseportal.de/pm/133833/4553557",
+          "title": "Sprachnachricht über Ausgangssperre in Chemnitz ist ein Fake",
+          "reviewDate": "2020-03-21T00:00:00Z",
+          "textualRating": "Es gab gar keine Stadtratssitzung. Die Stadt und auch die angebliche Quelle - die AfD-Stadtratsfraktion - bezeichnen die Aussage als Falschbehauptung.",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "Wassertrinken und Gurgeln hilft gegen das Coronavirus",
+      "claimant": "Wolfgang Herl",
+      "claimDate": "2020-03-16T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Correctiv",
+            "site": "correctiv.org"
+          },
+          "url": "https://correctiv.org/faktencheck/2020/03/20/wassertrinken-und-gurgeln-halten-das-coronavirus-nicht-auf/",
+          "title": "Wassertrinken und Gurgeln halten das Coronavirus nicht auf",
+          "reviewDate": "2020-03-20T18:31:43Z",
+          "textualRating": "Falsch. Wassertrinken und Gurgeln helfen nicht gegen das Coronavirus.",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "Coronavirus in Italien: Keiner ist gestorben",
+      "claimant": "Giovanni Alaimo",
+      "claimDate": "2020-03-15T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Correctiv",
+            "site": "correctiv.org"
+          },
+          "url": "https://correctiv.org/faktencheck/2020/03/20/dieses-video-interview-eines-arztes-aus-italien-ist-von-februar-und-enthaelt-veraltete-zahlen/",
+          "title": "Dieses Video-Interview eines Arztes aus Italien ist von Februar und enthält veraltete Zahlen",
+          "reviewDate": "2020-03-20T17:27:08Z",
+          "textualRating": "Größtenteils falsch. Das Interview wurde schon Ende Februar aufgezeichnet.",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "Corona: Einreisestopps in EU sollen nicht für Asylbewerber gelten",
+      "claimant": "Philosophia Perennis",
+      "claimDate": "2020-03-17T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Correctiv",
+            "site": "correctiv.org"
+          },
+          "url": "https://correctiv.org/faktencheck/2020/03/20/coronavirus-ja-asylbewerber-sind-vom-einreisestopp-ausgenommen-sie-sollen-aber-getestet-werden/",
+          "title": "Coronavirus: Ja, Asylbewerber sind vom Einreisestopp ausgenommen – sie sollen aber getestet werden",
+          "reviewDate": "2020-03-20T16:39:45Z",
+          "textualRating": "Teilweise falsch. Asylbewerber dürfen unter bestimmten Umständen weiter einreisen, sollen aber auch mehrfach gesundheitlich durchgecheckt werden.",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "37.000 US-Soldaten marschieren während der Corona-Krise in Europa ein",
+      "claimant": "Facebook-Post",
+      "claimDate": "2020-03-14T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Correctiv",
+            "site": "correctiv.org"
+          },
+          "url": "https://correctiv.org/faktencheck/2020/03/20/nein-29-000-us-soldaten-sind-nicht-immun-gegen-das-coronavirus/",
+          "title": "Nein, 29.000 US-Soldaten sind nicht immun gegen das Coronavirus",
+          "reviewDate": "2020-03-20T15:25:53Z",
+          "textualRating": "Größtenteils falsch. Über das Manöver wurde berichtet. Es wurde wegen des Coronavirus unterbrochen.",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "Alle Jobcenter ab Mittwoch wegen Corona geschlossen",
+      "claimant": "Gegen Hartz",
+      "claimDate": "2020-03-18T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Correctiv",
+            "site": "correctiv.org"
+          },
+          "url": "https://correctiv.org/faktencheck/2020/03/18/jobcenter-schraenken-arbeit-wegen-coronavirus-ein-aber-schliessen-nicht-komplett/",
+          "title": "Jobcenter schränken Arbeit wegen Coronavirus ein – aber schließen nicht komplett",
+          "reviewDate": "2020-03-18T17:57:31Z",
+          "textualRating": "Größtenteils richtig. Die Jobcenter arbeiten eingeschränkt, schließen aber nicht komplett.",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "Corona – Geheimplan der Regierung entdeckt?",
+      "claimant": "Wallstreet-Online",
+      "claimDate": "2020-02-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Correctiv",
+            "site": "correctiv.org"
+          },
+          "url": "https://correctiv.org/faktencheck/2020/03/18/coronavirus-um-was-es-bei-dem-angeblichen-geheimplan-der-regierung-2012-wirklich-ging/",
+          "title": "Coronavirus: Um was es bei dem angeblichen „Geheimplan der Regierung“ 2012 wirklich ging",
+          "reviewDate": "2020-03-18T13:00:25Z",
+          "textualRating": "Teilweise falsch. Es gibt eine Risikoanalyse, aber keinen „Geheimplan der Regierung“ zu einer Virus-Pandemie.",
+          "languageCode": "de"
         }
       ]
     },
@@ -76,9 +238,367 @@
             "site": "presseportal.de"
           },
           "url": "https://www.presseportal.de/pm/133833/4549151",
+          "title": "Es gibt kein generelles Arbeitsverbot in Betrieben wegen Coronavirus",
           "reviewDate": "2020-03-17T00:00:00Z",
           "textualRating": "Es gibt kein bundesweit geltendes Arbeitsverbot in Unternehmen (Stand: 16. März 2020). Die Bundeszentrale für gesundheitliche Aufklärung empfiehlt aber, dass Arbeitnehmer nach Möglichkeit von zu Hause arbeiten sollen.",
-          "languageCode": "en"
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "Whatsapp-Nachricht mit angeblichen Tipps wie Luft anhalten oder Wasser trinken gegen Coronavirus",
+      "claimant": "Whatsapp-Nachricht",
+      "claimDate": "2020-03-09T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Correctiv",
+            "site": "correctiv.org"
+          },
+          "url": "https://correctiv.org/faktencheck/2020/03/16/falsche-tipps-in-whatsapp-kettenbrief-luft-anhalten-oder-wasser-trinken-helfen-nicht-gegen-coronavirus/",
+          "title": "Falsche Tipps in Whatsapp-Kettenbrief: Luft anhalten oder Wasser trinken helfen nicht gegen das Coronavirus",
+          "reviewDate": "2020-03-16T17:58:33Z",
+          "textualRating": "Falsch. Die Tipps verhindern keine Infektion mit dem Coronavirus oder geben Hinweise auf eine Ansteckung.",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "Ratschläge und Gerüchte zum Einfluss bestimmter Medikamente auf eine Coronavirus-Infektion sorgen derzeit für Verunsicherung. In sozialen Netzwerken verbreitete sich eine Nachricht, der zufolge Ibuprofen die Vermehrung von Coronaviren begünstige. Dies hätten Forscher der Uniklinik Wien herausgefunden, hieß es",
+      "claimant": "Frank Graf von Kronenberg",
+      "claimDate": "2020-03-14T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Presseportal",
+            "site": "presseportal.de"
+          },
+          "url": "https://www.presseportal.de/pm/133833/4548932",
+          "title": "Coronavirus: Uniklinik Wien hat nicht vor Ibuprofen gewarnt",
+          "reviewDate": "2020-03-16T00:00:00Z",
+          "textualRating": "Die Uniklinik Wien distanziert sich von den Behauptungen und spricht von \"Fake News\". Es ist nicht belegt, dass Ibuprofen die Vermehrung des Virus Sars-CoV-2 verstärkt.",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "Angesichts der weiteren Ausbreitung des Coronavirus in Deutschland wird in sozialen Netzen behauptet, Kaufland schließe wegen einer \"erhöhten Ansteckungsgefahr\" seine Supermärkte. In dem häufig verbreiteten Online-Artikel des vermeintlichen News-Portals \"Kölner Abendblatt\" vom 13. März heißt es, ab Samstag, 14. März 2020, um 14.00 Uhr würden \"die Türen sämtlicher Filialen in der Bundesrepublik geschlossen werden\".",
+      "claimant": "Ursel Duske Dürr",
+      "claimDate": "2020-03-14T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Presseportal",
+            "site": "presseportal.de"
+          },
+          "url": "https://www.presseportal.de/pm/133833/4547369",
+          "title": "Kaufland dementiert Filialschließungen wegen Coronavirus",
+          "reviewDate": "2020-03-14T00:00:00Z",
+          "textualRating": "Kaufland dementiert die Schließungen, die Filialen bleiben geöffnet. Unter der Adresse \"koelner-abendblatt.de\" will eine Satire-Seite darauf aufmerksam machen, dass Informationen im Netz kritisch überprüft werden sollten.",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "Im Schutze der Corona wurde das Volk wieder verarscht und keiner hat es gemerkt.",
+      "claimant": "Jörg Kätzel",
+      "claimDate": "2020-03-10T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Correctiv",
+            "site": "correctiv.org"
+          },
+          "url": "https://correctiv.org/faktencheck/2020/03/13/dieses-video-einer-registrierungsstelle-fuer-fluechtlinge-ist-nicht-aktuell/",
+          "title": "Dieses Video einer Registrierungsstelle für Flüchtlinge ist nicht aktuell",
+          "reviewDate": "2020-03-13T17:40:00Z",
+          "textualRating": "Falsch. Das Video ist von 2015.",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "Angeblich ist mit „Coronavirus“ auf Vibasept-Desinfektionsflaschen das neuartige Virus gemeint",
+      "claimant": "Facebook-Post",
+      "claimDate": "2020-03-29T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Correctiv",
+            "site": "correctiv.org"
+          },
+          "url": "https://correctiv.org/faktencheck/2020/03/13/coronavirus-steht-auf-desinfektionsmitteln-weil-die-viren-familie-schon-seit-jahrzehnten-bekannt-ist/",
+          "title": "„Coronavirus“ steht auf Desinfektionsmitteln, weil die Viren-Familie schon seit Jahrzehnten bekannt ist",
+          "reviewDate": "2020-03-13T15:48:26Z",
+          "textualRating": "Falsch. Die Familie der Coronaviren ist seit Jahrzehnten bekannt.",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "Die angebliche \"Wahrheit über das Coronavirus\" wird bei Facebook verbreitet: \"Die Epidemie war in Deutschland bereits vor Jahren geplant!\" Das lasse sich aus einer Risikoanalyse des Bundestags von 2013 schließen",
+      "claimant": "Die Scheinwelt",
+      "claimDate": "2020-02-14T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Presseportal",
+            "site": "presseportal.de"
+          },
+          "url": "https://www.presseportal.de/pm/133833/4546420",
+          "title": "Experten haben keine Epidemie, sondern den Umgang damit geplant",
+          "reviewDate": "2020-03-13T00:00:00Z",
+          "textualRating": "Im \"Bericht zur Risikoanalyse im Bevölkerungsschutz 2012\", der am 3. Januar 2013 vom Bundestag veröffentlicht wurde, werden unter anderem die Ergebnisse zweier Risikoanalysen dargestellt.",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "Seit Wochen werden Falschnachrichten über das Coronavirus Sars-CoV-2 in sozialen Netzwerken verbreitet. Unter anderem wird in einem Facebook-Post behauptet, dass das Virus \"bei einer Temperatur von 26 bis 27 Grad stirbt\". Daher sei es ratsam, viel heißes Wasser zu trinken. Außerdem sei das Virus so groß, dass \"jede normale Maske (...) es filtern kann\"",
+      "claimant": "Guglielmo Imbimbo",
+      "claimDate": "2020-03-08T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Presseportal",
+            "site": "presseportal.de"
+          },
+          "url": "https://www.presseportal.de/pm/133833/4543298",
+          "title": "Coronavirus stirbt nicht bei Körpertemperatur",
+          "reviewDate": "2020-03-10T00:00:00Z",
+          "textualRating": "Coronaviren halten höhere Temperaturen aus als 27 Grad Celsius, zum Beispiel die menschliche Körpertemperatur. Händehygiene und Abstandhalten sind ein deutlich effektiverer Schutz vor Ansteckung als das Tragen eines Mund-Nasen-Schutzes.",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "Der neue Mobilfunkstandard 5G wird immer wieder in Zusammenhang mit dem Coronavirus Sars-CoV-2 gebracht. In der Überschrift eines Online-Artikels heißt es, eine \"gefälschte Viruspandemie\" diene der \"Vertuschung des globalen Ausbruchs des 5G-Syndroms\"",
+      "claimant": "News For Friends",
+      "claimDate": "2020-03-01T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Presseportal",
+            "site": "presseportal.de"
+          },
+          "url": "https://www.presseportal.de/pm/133833/4539968",
+          "title": "5G-Start erfolgte unabhängig vom Auftreten des Coronavirus",
+          "reviewDate": "2020-03-06T00:00:00Z",
+          "textualRating": "Das Coronavirus Sars-CoV-2, das die neue Lungenkrankheit Covid-19 auslösen kann, steht weder in Zusammung mit Mobilfunk im Allgemeinen noch mit dem neuen Übertragungsstandard 5G. Die Strahlung von mobilen Endgeräten oder Sendemasten unterhalb der Grenzwerte ist mittlerweile gut erforscht. Einen Grund für Bedenken gibt es nach Ansicht der meisten Wissenschaftler nicht.",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "Seit Tagen werden Falschnachrichten über das Coronavirus in sozialen Netzwerken verbreitet. In einem derzeit kursierenden Screenshot, der wie ein Ausschnitt aus einem Artikel von \"Zeit Online\" aussieht, heißt es: \"In Plochingen und Eislingen gab es bereits 8 Todesfälle.\" Im Göppingen und Esslingen in Baden-Württemberg herrsche zudem Mundschutzpflicht",
+      "claimant": "Raku Claudiu",
+      "claimDate": "2020-02-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Presseportal",
+            "site": "presseportal.de"
+          },
+          "url": "https://www.presseportal.de/pm/133833/4540002",
+          "title": "Der Text stammt nicht von \"Zeit Online\" und enthält Falschbehauptungen",
+          "reviewDate": "2020-03-06T00:00:00Z",
+          "textualRating": "Der Text in dem Screenshot stammt nicht von \"Zeit Online\". Eine Mundschutzpflicht dieser Art gibt es nicht. In Deutschland ist derzeit (Stand 5. März) kein Todesfall durch das Coronavirus bekannt.",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "Deutschland in Corona-Panik",
+      "claimant": "Christin Benecke",
+      "claimDate": "2020-02-29T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Correctiv",
+            "site": "correctiv.org"
+          },
+          "url": "https://correctiv.org/faktencheck/2020/03/05/video-diese-menschen-stuermten-aldi-nicht-wegen-des-coronavirus-sondern-wegen-laptops/",
+          "title": "Video: Diese Menschen stürmten Aldi nicht wegen des Coronavirus, sondern wegen Laptops",
+          "reviewDate": "2020-03-05T18:16:42Z",
+          "textualRating": "Falsch. Das Video hat nichts mit Hamsterkäufen wegen der Angst vor dem neuen Coronavirus zu tun. Es handelt sich um eine Aufnahme aus Kiel von 2011.",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "Coronavirus befällt ersten Hund",
+      "claimant": "Wamiz",
+      "claimDate": "2020-02-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Correctiv",
+            "site": "correctiv.org"
+          },
+          "url": "https://correctiv.org/faktencheck/2020/03/04/ja-ein-hund-in-hongkong-wurde-positiv-auf-das-coronavirus-getestet/",
+          "title": "Ja, ein Hund in Hongkong wurde positiv auf das Coronavirus getestet",
+          "reviewDate": "2020-03-04T12:08:38Z",
+          "textualRating": "Größtenteils richtig. Ein Hund in Hongkong wurde laut Behördenangaben „schwach positiv“ auf das Coronavirus getestet. Das Tier zeige aber keine Symptome.",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "Coronavirus-Update: Laut Weltgesundheitsorganisation könnte Übertragung durch Lebensmittel möglich sein",
+      "claimant": "Medizin Heute",
+      "claimDate": "2020-02-24T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Correctiv",
+            "site": "correctiv.org"
+          },
+          "url": "https://correctiv.org/faktencheck/2020/02/27/nein-die-who-hat-keine-hinweise-dass-das-coronavirus-ueber-lebensmittel-uebertragen-wird/",
+          "title": "Nein, die WHO hat keine Hinweise, dass das Coronavirus über Lebensmittel übertragen wird",
+          "reviewDate": "2020-02-27T12:44:37Z",
+          "textualRating": "Teilweise falsch. Es gibt bisher keine Hinweise, dass das Virus über Lebensmittel übertragen wird. Die WHO hat davor nicht gewarnt, sondern rät wie bisher allgemein zu Vorsicht mit rohen Tierprodukten.",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "Das neue Coronavirus Sars-CoV-2 stammt wahrscheinlich von Fledermäusen. Viele der ersten Fälle der Infektionen wurden im Dezember auf den Huanan-Markt in der heute schwer betroffenen Metropole Wuhan in Zentralchina zurückgeführt. Nun wird ein Video in den sozialen Medien verbreitet, das angeblich diesen Markt zeigen soll. Dazu der Kommentar: \"Die Seuche musste ja ausbrechen. Ob China seine Marktgewohnheiten mal ändern sollte?\"",
+      "claimant": "Horst Braun",
+      "claimDate": "2020-02-04T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Presseportal",
+            "site": "presseportal.de"
+          },
+          "url": "https://www.presseportal.de/pm/133833/4531498",
+          "title": "Video zeigt Marktstände in Indonesien, nicht in Wuhan",
+          "reviewDate": "2020-02-26T00:00:00Z",
+          "textualRating": "Die Bilder stammen nicht aus Wuhan. Das Video wurde aus Filmaufnahmen von Märkten in Indonesien zusammengeschnitten.",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "Coronavirus: China ordnet Schlachtung von Haustieren an",
+      "claimant": "Deine Tierwelt",
+      "claimDate": "2020-02-04T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Correctiv",
+            "site": "correctiv.org"
+          },
+          "url": "https://correctiv.org/faktencheck/medizin-und-gesundheit/2020/02/14/coronavirus-chinesische-behoerden-fordern-nicht-haustiere-zu-schlachten-teilweise-werden-aber-strassenhunde-getoetet/",
+          "title": "Coronavirus: Chinesische Behörden fordern nicht, Haustiere zu schlachten – teilweise werden aber Straßenhunde getötet",
+          "reviewDate": "2020-02-14T15:55:55Z",
+          "textualRating": "Teilweise falsch – es gibt keine Belege, dass chinesische Behörden das Töten von Haustieren fordern, dafür aber, dass sie die Tötung von Straßenhunden hinnehmen. Die WHO sagt, von Haustieren gehe keine Gefahr aus.",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "Fotos von Busfahrern ohne Schutzmasken: Fahren Evakuierte nach Coronavirus-Ausbruch in Krankenhaus",
+      "claimant": "Facebook-Post",
+      "claimDate": "2020-03-31T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Correctiv",
+            "site": "correctiv.org"
+          },
+          "url": "https://correctiv.org/faktencheck/medizin-und-gesundheit/2020/02/07/coronavirus-warum-busfahrer-bei-evakuierten-transport-keine-schutzmasken-trugen/",
+          "title": "Coronavirus: Warum Busfahrer bei Evakuierten-Transport keine Schutzmasken trugen",
+          "reviewDate": "2020-02-07T17:19:42Z",
+          "textualRating": "Größtenteils richtig. Die Fotos zeigen einen Transport von Menschen, die aus Wuhan nach England gebracht wurden. Schutzmasken waren jedoch laut dem englischen Gesundheitsministerium nicht notwendig, es seien genügend Sicherheitsvorkehrungen getroffen worden.",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "Studie: Chlordioxid-Lösungen inaktivieren den Coronavirus",
+      "claimant": "Connectiv Events",
+      "claimDate": "2020-01-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Correctiv",
+            "site": "correctiv.org"
+          },
+          "url": "https://correctiv.org/faktencheck/medizin-und-gesundheit/2020/02/07/die-einnahme-von-chlordioxid-hilft-nicht-gegen-das-neue-coronavirus/",
+          "title": "Die Einnahme von Chlordioxid hilft nicht gegen das neue Coronavirus",
+          "reviewDate": "2020-02-07T15:22:19Z",
+          "textualRating": "Falsch. Die Einnahme von Chlordioxid hilft nicht gegen das Coronavirus oder gegen andere Krankheiten. Es ist gesundheitsschädlich.",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "Mit der Verbreitung des neuartigen Coronavirus 2019-nCoV werden gezielt Unwahrheiten über den Erreger verbreitet. Die orale Aufnahme einer Chlordioxid-Lösung soll beispielsweise gegen das Virus wirksam sein",
+      "claimant": "Rainer Taufertshöfer",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Presseportal",
+            "site": "presseportal.de"
+          },
+          "url": "https://www.presseportal.de/pm/133833/4510239",
+          "title": "Chlordioxid-Lösungen sind für Menschen schädlich",
+          "reviewDate": "2020-02-03T00:00:00Z",
+          "textualRating": "Es liegen keine wissenschaftlichen Belege vor, dass die Aufnahme von Chlordioxid Wirkung gegen Krankheiten beim Menschen zeigt. Im Gegenteil: Verschiedene Behörden warnen international davor, Chlordioxid einzunehmen. Laut der Weltgesundheitsbehörde (WHO) gibt es derzeit \"kein spezifisches Medikament, das zur Vorbeugung oder Behandlung des Virus' empfohlen wird\"",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "Coronavirus: Wuhan im Zentrum, 5G könnte Auslöser für Todesfälle sein",
+      "claimant": "Connectiv Events",
+      "claimDate": "2020-01-26T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Correctiv",
+            "site": "correctiv.org"
+          },
+          "url": "https://correctiv.org/faktencheck/medizin-und-gesundheit/2020/01/30/falsche-spekulationen-5g-ist-nicht-schuld-an-todesfaellen-durch-das-coronavirus/",
+          "title": "Falsche Spekulationen: 5G ist nicht Schuld an Todesfällen durch das Coronavirus",
+          "reviewDate": "2020-01-30T15:55:02Z",
+          "textualRating": "Falsch. Die Todesfälle durch das neue Coronavirus hatten nichts mit 5G zu tun.",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "Seit Wochen hält der Erreger einer neuen Lungenkrankheit die Welt in Atem. Mit der aktuellen Ausbreitung des Coronavirus werden im Netz massiv falsche Theorien verbreitet. So soll etwa die Stiftung von Microsoft-Gründer Bill Gates im konkreten Fall 65 Millionen Tote prognostiziert haben. Zudem gebe es einen direkten Bezug zu einem alten Coronavirus-Patent",
+      "claimant": "Ernst Fleischmann",
+      "claimDate": "2020-01-26T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Presseportal",
+            "site": "presseportal.de"
+          },
+          "url": "https://www.presseportal.de/pm/133833/4506092",
+          "title": "Coronavirus und Bill Gates: Falschbehauptungen im Umlauf",
+          "reviewDate": "2020-01-29T00:00:00Z",
+          "textualRating": "Es gibt keinen Beweis dafür, dass die Gates-Stiftung für das jüngst in China ausgebrochene Coronavirus verantwortlich ist. Zudem hat die Stiftung im Vorfeld auch keine Prognose über zu erwartende Opferzahlen aufgestellt. Ein als angeblicher Beleg vorgebrachtes Patent bezieht sich auf eine andere Coronavirus-Art.",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "Es gibt Patente zum aktuellen Coronavirus, u.a. hat Bill Gates eines und er hat auch den Ausbruch vorhergesagt.",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Correctiv",
+            "site": "correctiv.org"
+          },
+          "url": "https://correctiv.org/faktencheck/medizin-und-gesundheit/2020/01/28/nein-bill-gates-hat-kein-patent-auf-das-neue-coronavirus-oder-den-ausbruch-mit-65-millionen-toten-vorhergesagt/",
+          "title": "Nein, Bill Gates hat kein Patent auf das neue Coronavirus oder den Ausbruch mit 65 Millionen Toten vorhergesagt",
+          "reviewDate": "2020-01-28T18:26:19Z",
+          "textualRating": "Größtenteils falsch: Es gibt vielerlei Zertifikate über Coronaviren, aber die sind für andere Arten, nicht das aktuelle neue Coronavirus aus China. Bill Gates hat den Ausbruch nicht vorher gesagt.",
+          "languageCode": "de"
         }
       ]
     }
