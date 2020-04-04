@@ -1,0 +1,86 @@
+{
+  "claims": [
+    {
+      "text": "Alkohol hilft gegen Coronaviren",
+      "claimant": "Whatsapp-Kettenbrief",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Correctiv",
+            "site": "correctiv.org"
+          },
+          "url": "https://correctiv.org/faktencheck/2020/04/01/nein-alkohol-zu-trinken-toetet-das-coronavirus-nicht-ab/",
+          "reviewDate": "2020-04-01T17:03:41Z",
+          "textualRating": "Völlig falsch. Die Meldung ist eine Fälschung. Alkohol hilft nicht gegen Coronaviren im Mund und Rachenraum.",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "Corona: Einreisestopps in EU sollen nicht für Asylbewerber gelten",
+      "claimant": "Philosophia Perennis",
+      "claimDate": "2020-03-17T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Correctiv",
+            "site": "correctiv.org"
+          },
+          "url": "https://correctiv.org/faktencheck/2020/03/20/coronavirus-ja-asylbewerber-sind-vom-einreisestopp-ausgenommen-sie-sollen-aber-getestet-werden/",
+          "reviewDate": "2020-03-20T16:39:45Z",
+          "textualRating": "Teilweise falsch. Asylbewerber dürfen unter bestimmten Umständen weiter einreisen, sollen aber auch mehrfach gesundheitlich durchgecheckt werden.",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "Wegen Coronavirus: in Hongkong zerstören die Menschen die 5G Masten",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Correctiv",
+            "site": "correctiv.org"
+          },
+          "url": "https://correctiv.org/faktencheck/2020/04/01/nein-in-hongkong-wurde-kein-5g-mast-wegen-coronavirus-zerstoert-das-video-entstand-vor-der-pandemie/",
+          "reviewDate": "2020-04-01T11:14:19Z",
+          "textualRating": "Falsch. Das Video entstand im August 2019 in Hongkong. Mit dem Coronavirus hat es nichts zu tun.",
+          "languageCode": "de"
+        }
+      ]
+    },
+    {
+      "text": "Ratschläge und Gerüchte zum Einfluss bestimmter Medikamente auf eine Coronavirus-Infektion sorgen derzeit für Verunsicherung. In sozialen Netzwerken verbreitete sich eine Nachricht, der zufolge Ibuprofen die Vermehrung von Coronaviren begünstige. Dies hätten Forscher der Uniklinik Wien herausgefunden, hieß es",
+      "claimant": "Frank Graf von Kronenberg",
+      "claimDate": "2020-03-14T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Presseportal",
+            "site": "presseportal.de"
+          },
+          "url": "https://www.presseportal.de/pm/133833/4548932",
+          "reviewDate": "2020-03-16T00:00:00Z",
+          "textualRating": "Die Uniklinik Wien distanziert sich von den Behauptungen und spricht von \"Fake News\". Es ist nicht belegt, dass Ibuprofen die Vermehrung des Virus Sars-CoV-2 verstärkt.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Auf Facebook werden Posts mit der angeblichen Nachricht verbreitet, wegen der Ausbreitung des Coronavirus gelte mit dem 16. März ein generelles Arbeitsverbot in allen Unternehmen in Deutschland. Dies habe, so ist zu lesen, ein Arbeitsgericht in Abstimmung mit dem Bundesrat beschlossen",
+      "claimant": "Udo Kerstholt",
+      "claimDate": "2020-03-14T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Presseportal",
+            "site": "presseportal.de"
+          },
+          "url": "https://www.presseportal.de/pm/133833/4549151",
+          "reviewDate": "2020-03-17T00:00:00Z",
+          "textualRating": "Es gibt kein bundesweit geltendes Arbeitsverbot in Unternehmen (Stand: 16. März 2020). Die Bundeszentrale für gesundheitliche Aufklärung empfiehlt aber, dass Arbeitnehmer nach Möglichkeit von zu Hause arbeiten sollen.",
+          "languageCode": "en"
+        }
+      ]
+    }
+  ]
+}

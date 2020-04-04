@@ -1,0 +1,106 @@
+{
+  "claims": [
+    {
+      "text": "«La banca mi deve dare con la garanzia dello Stato [...] e deve essere fatto con una procedura automatica come in Svizzera, non con la cultura dei moduli»",
+      "claimant": "Matteo Renzi",
+      "claimDate": "2020-03-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Pagella Politica",
+            "site": "pagellapolitica.it"
+          },
+          "url": "https://pagellapolitica.it/dichiarazioni/8562/no-la-svizzera-non-da-in-automatico-aiuti-alle-aziende-per-il-coronavirus",
+          "reviewDate": "2020-03-30T00:00:00Z",
+          "textualRating": "Pinocchio andante",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "L’Italia non è stata la prima in Europa a isolare il nuovo coronavirus",
+      "claimant": "Nicola Zingaretti",
+      "claimDate": "2020-02-01T23:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Pagella Politica",
+            "site": "pagellapolitica.it"
+          },
+          "url": "https://pagellapolitica.it/dichiarazioni/8512/litalia-non-e-stata-la-prima-in-europa-a-isolare-il-nuovo-coronavirus",
+          "reviewDate": "2020-02-03T13:03:56Z",
+          "textualRating": "Nì",
+          "languageCode": "it"
+        }
+      ]
+    },
+    {
+      "text": "No, il nuovo coronavirus non è pericoloso «come la peste e il colera»",
+      "claimant": "Matteo Salvini",
+      "claimDate": "2020-01-30T20:45:18Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Pagella Politica",
+            "site": "pagellapolitica.it"
+          },
+          "url": "https://pagellapolitica.it/dichiarazioni/8513/no-il-nuovo-coronavirus-non-e-pericoloso-come-la-peste-e-il-colera",
+          "reviewDate": "2020-02-03T15:24:40Z",
+          "textualRating": "Nì",
+          "languageCode": "it"
+        }
+      ]
+    },
+    {
+      "text": "«Coronavirus, Abidol è un farmaco utilizzato contro i più comuni virus dell'influenza, funziona impedendo al virus di attraversare la membrana delle cellule e di penetrare al loro interno per replicarsi»",
+      "claimant": "Elio Lannutti",
+      "claimDate": "2020-03-16T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Pagella Politica",
+            "site": "pagellapolitica.it"
+          },
+          "url": "https://pagellapolitica.it/dichiarazioni/8552/la-bufala-del-farmaco-contro-il-coronavirus-ripresa-da-un-senatore-del-m5s",
+          "reviewDate": "2020-03-20T00:00:00Z",
+          "textualRating": "Panzana pazzesca",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "La strada e il lavoro uccidono molto di più del nuovo coronavirus",
+      "claimant": "Michele Dell'Orco",
+      "claimDate": "2020-02-03T07:06:52Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Pagella Politica",
+            "site": "pagellapolitica.it"
+          },
+          "url": "https://pagellapolitica.it/dichiarazioni/8519/la-strada-e-il-lavoro-uccidono-molto-di-piu-del-nuovo-coronavirus",
+          "reviewDate": "2020-02-05T16:22:01Z",
+          "textualRating": "C'eri quasi",
+          "languageCode": "it"
+        }
+      ]
+    },
+    {
+      "text": "«Tutti devono sapere: Germania padrona dell’Ue. Aiuti a imprese italiane 25 miliardi. Aiuti a imprese tedesche 550 miliardi»",
+      "claimant": "Gianluigi Paragone",
+      "claimDate": "2020-03-14T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Pagella Politica",
+            "site": "pagellapolitica.it"
+          },
+          "url": "https://pagellapolitica.it/dichiarazioni/8549/no-la-germania-per-il-coronavirus-non-mette-22-volte-i-soldi-dellitalia",
+          "reviewDate": "2020-03-17T00:00:00Z",
+          "textualRating": "Pinocchio andante",
+          "languageCode": "en"
+        }
+      ]
+    }
+  ]
+}

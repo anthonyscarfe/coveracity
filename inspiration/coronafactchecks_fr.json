@@ -1,0 +1,996 @@
+{
+  "claims": [
+    {
+      "text": "Un vaccin contre le coronavirus est prêt",
+      "claimant": "Saadino Sarni",
+      "claimDate": "2020-04-02T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/non-aucun-vaccin-contre-le-nouveau-coronavirus-na-ete-trouve-en-date-du-2-avril-2020",
+          "reviewDate": "2020-04-02T20:29:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Des nouveaux vaccins contre le coronavirus vont être testés en Afrique",
+      "claimant": "Multiple sources",
+      "claimDate": "2020-03-29T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/le-coronavirus-les-tests-de-vaccins-et-lafrique-ou-en-est",
+          "reviewDate": "2020-04-03T20:17:00Z",
+          "textualRating": "il n'existe pas encore de vaccin",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Il existerait un vaccin contre le coronavirus.",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Radio-Canada.ca",
+            "site": "ici.radio-canada.ca"
+          },
+          "url": "https://ici.radio-canada.ca/nouvelle/1687771/vaccin-coronavirus-roche-trump-faux",
+          "title": "Non, ceci n'est pas un vaccin contre le coronavirus | Coronavirus",
+          "reviewDate": "2020-03-25T00:00:00Z",
+          "textualRating": "Faux.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "« Retenez votre souffle pendant plus de dix secondes. Si vous réussissez à le faire sans tousser, sans inconfort, sans sensation d'oppression, cela montre qu'il n'y a pas de fibrose dans les poumons, ce qui indique essentiellement aucune infection. »",
+      "claimant": "Posts sur les réseaux sociaux",
+      "claimDate": "2020-03-30T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "20 Minutes",
+            "site": "20minutes.fr"
+          },
+          "url": "https://www.20minutes.fr/sante/2750879-20200330-retenir-souffle-detecter-coronavirus-boire-eau-empecher-contamination-conseils-doivent-etre-suivis",
+          "reviewDate": "2020-03-30T00:00:00Z",
+          "textualRating": "C’est faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Le coronavirus ne survit pas dans les climats chauds",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Radio-Canada.ca",
+            "site": "ici.radio-canada.ca"
+          },
+          "url": "https://ici.radio-canada.ca/nouvelle/1675144/covid-19-chaleur-decrypteurs-trump-faux",
+          "title": "Non, la chaleur ne tue pas le coronavirus | Coronavirus",
+          "reviewDate": "2020-03-19T00:00:00Z",
+          "textualRating": "Faux",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Retenir son souffle pendant 10 minutes permet de savoir si on est infecté par le coronavirus.",
+      "claimDate": "2020-02-26T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Radio-Canada.ca",
+            "site": "ici.radio-canada.ca"
+          },
+          "url": "https://ici.radio-canada.ca/nouvelle/1676597/test-coronavirus-retenir-souffle-respiration-faux",
+          "title": "Non, retenir son souffle ne permet pas de détecter le coronavirus ...",
+          "reviewDate": "2020-03-19T00:00:00Z",
+          "textualRating": "Faux",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Plusieurs messages postés sur Twitter cette semaine affirment que l'Islande a dépisté, ou est en mesure de dépister, toute sa population au Covid-19. C'est faux. En réalité, à ce jour 3,5% de la population a été testée selon le gouvernement. L'Islande procède à un dépistage massif en proposant en moyenne 582 tests chaque jour depuis la mi-mars. Mais même à ce rythme, il faudrait plus d' un an et demi pour tester l'ensemble des habitants.",
+      "claimant": "multiple sources",
+      "claimDate": "2020-03-24T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/coronavirus-non-lislande-na-pas-depiste-lintegralite-de-sa-population",
+          "reviewDate": "2020-03-26T15:10:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Quatre hommes contaminés au coronavirus se sont échappés d'un hôpital au Cameroun",
+      "claimant": "sources multiples",
+      "claimDate": "2020-03-19T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/non-ces-quatre-hommes-ne-sont-pas-porteurs-du-coronavirus-et-en-fuite-au-cameroun",
+          "reviewDate": "2020-03-25T14:07:00Z",
+          "textualRating": "Ces quatre Camerounais sont en bonne santé et vivent en Europe depuis plusieurs années",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Le nouveau coronavirus existe depuis longtemps car il existe des vaccins bovins portant la mention \"coronavirus\"",
+      "claimant": "Multiple sources",
+      "claimDate": "2020-03-12T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/non-ce-vaccin-animal-ne-prouve-pas-que-le-nouveau-coronavirus-existe-depuis-des-annees",
+          "reviewDate": "2020-03-20T11:59:00Z",
+          "textualRating": "Trompeur",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Pendant le confinement, il est interdit de circuler à plusieurs dans une voiture",
+      "claimant": "Une internaute sur Facebook",
+      "claimDate": "2020-03-20T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Le Monde",
+            "site": "lemonde.fr"
+          },
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2020/03/23/coronavirus-non-il-n-est-pas-interdit-de-prendre-la-voiture-a-plusieurs-pendant-le-confinement_6034098_4355770.html",
+          "reviewDate": "2020-03-23T10:37:55Z",
+          "textualRating": "C’est plus compliqué",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Le brevet EP 1694829-B1 prouve que le coronavirus a été créé en laboratoire.",
+      "claimDate": "2020-03-17T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Radio-Canada.ca",
+            "site": "ici.radio-canada.ca"
+          },
+          "url": "https://ici.radio-canada.ca/nouvelle/1672833/brevet-coronavirus-institut-pasteur-arme-biologique-ep1694829b1",
+          "title": "Non, ce brevet ne prouve pas que le coronavirus a été créé en ...",
+          "reviewDate": "2020-03-18T00:00:00Z",
+          "textualRating": "FAUX.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Des inhalations de vapeur d'eau permettent de \"tuer\" le coronavirus",
+      "claimant": "multiples sources",
+      "claimDate": "2020-03-25T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/non-faire-des-inhalations-de-vapeur-deau-ne-tue-pas-le-coronavirus",
+          "reviewDate": "2020-03-26T21:36:00Z",
+          "textualRating": "Non",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Des français malades sont traités au 43e Bima à l'insu des ivoiriens",
+      "claimant": "Multiples sources",
+      "claimDate": "2020-03-16T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/non-35-francais-atteints-du-coronavirus-ne-sont-pas-soignes-sur-une-base-militaire-en-cote-divoire",
+          "reviewDate": "2020-03-18T19:46:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Les mosquées et synagogues sont les seuls lieux de culte à pouvoir rester ouverts malgré le confinement",
+      "claimant": "Sources multiples",
+      "claimDate": "2020-03-21T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/coronavirus-non-les-mosquees-et-synagogues-ne-sont-pas-les-seuls-lieux-de-culte-pouvoir-rester",
+          "reviewDate": "2020-03-27T13:45:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Un homme atteint du coronavirus touche des pains dans un supermarché avant de les reposer",
+      "claimant": "Page Facebook Regards",
+      "claimDate": "2020-03-15T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/coronavirus-non-cette-video-ne-montre-pas-un-malade-manipuler-des-pains-dans-un-supermarche-avant-de",
+          "reviewDate": "2020-03-24T17:35:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Le coronavirus est une arme biologique",
+      "claimDate": "2020-03-11T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Radio-Canada.ca",
+            "site": "ici.radio-canada.ca"
+          },
+          "url": "https://ici.radio-canada.ca/nouvelle/1668283/coronavirus-arme-biologique-faux-alan-cantwell-james-lyons-weiler-kla-tv",
+          "title": "Non, cette vidéo ne prouve pas que le coronavirus est une arme ...",
+          "reviewDate": "2020-03-16T00:00:00Z",
+          "textualRating": "FAUX",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Les refuges de la SPA sont submergés par les abandons à cause du coronavirus",
+      "claimant": "Défendre les animaux et protéger la nature",
+      "claimDate": "2020-03-17T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/non-la-spa-nest-pas-submergee-par-les-abandons-cause-du-coronavirus",
+          "reviewDate": "2020-03-18T11:05:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Le professeur Jean-Jacques Muyembe a affirmé que la peau des personnes noires résiste au coronavirus",
+      "claimant": "Multiples Sources",
+      "claimDate": "2020-03-10T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/non-le-decouvreur-debola-na-jamais-dit-que-la-peau-noire-resistait-au-coronavirus",
+          "reviewDate": "2020-03-18T19:07:00Z",
+          "textualRating": "le professeur Muyembe n'a jamais dit que la peau des Noirs résistait au coronavirus",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Les supermarchés imposent à leurs clients des chariots pré-remplis de produits de première nécessité",
+      "claimant": "Sources multiples",
+      "claimDate": "2020-03-17T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/coronavirus-non-les-supermarches-russes-nimposent-pas-leurs-clients-des-chariots-de-produits-de",
+          "reviewDate": "2020-03-18T16:40:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Un visuel montrant de nouvelles règles d'indemnisations liées au coronavirus",
+      "claimant": "Johny Renaut",
+      "claimDate": "2020-03-26T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/ce-visuel-portant-sur-de-nouvelles-indemnites-de-salaire-cause-du-nouveau-coronavirus-est-errone",
+          "reviewDate": "2020-03-26T13:20:00Z",
+          "textualRating": "Erroné",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Agnès Buzyn a-t-elle interdit la vente libre de chloroquine en janvier 2020 ?",
+      "claimant": "Plusieurs internautes",
+      "claimDate": "2020-03-23T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Le Monde",
+            "site": "lemonde.fr"
+          },
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2020/03/25/agnes-buzyn-a-t-elle-interdit-la-vente-libre-de-chloroquine-en-pleine-epidemie-de-covid-19_6034372_4355770.html",
+          "reviewDate": "2020-03-25T10:46:16Z",
+          "textualRating": "FAUX",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Faire des gargarismes avec de l'eau tiède, du sel ou du vinaigre pour éliminer le coronavirus",
+      "claimant": "Multiple Sources",
+      "claimDate": "2020-03-16T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/non-des-gargarismes-deau-tiede-melangee-du-sel-ou-du-vinaigre-ne-soigne-pas-le-coronavirus",
+          "reviewDate": "2020-03-19T18:23:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Une photo montre que, même avec le coronavirus, personne ne veut manger vegan",
+      "claimant": "Sources multiples",
+      "claimDate": "2020-03-13T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/non-cette-photo-ne-montre-pas-que-meme-avec-le-coronavirus-personne-ne-veut-manger-vegan",
+          "reviewDate": "2020-03-20T15:25:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Ces photos montrent-elles un déploiement de l’armée pour lutter contre le coronavirus ?",
+      "claimant": "Plusieurs internautes sur Facebook",
+      "claimDate": "2020-03-16T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Le Monde",
+            "site": "lemonde.fr"
+          },
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2020/03/17/attention-aux-nombreuses-photos-de-vehicules-et-convois-militaires-sorties-de-leur-contexte_6033431_4355770.html",
+          "reviewDate": "2020-03-17T16:58:51Z",
+          "textualRating": "PRUDENCE",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Le Covid-19 a été inventé en 2004, comme le montre un brevet déposé par l'Institut Pasteur",
+      "claimant": "https://www.facebook.com/john.labite.9/videos/2709312776005785/",
+      "claimDate": "2020-03-18T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "20 Minutes",
+            "site": "20minutes.fr"
+          },
+          "url": "https://www.20minutes.fr/high-tech/2742775-20200318-coronavirus-non-covid-19-brevete-institut-pasteur-2004",
+          "reviewDate": "2020-03-18T00:00:00Z",
+          "textualRating": "C’est faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Ce message d’une infectiologue du CHU de Toulouse sur 4 cas graves de coronavirus est-il vrai ?",
+      "claimant": "Plusieurs internautes sur Facebook",
+      "claimDate": "2020-03-14T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Le Monde",
+            "site": "lemonde.fr"
+          },
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2020/03/16/le-chu-de-toulouse-dement-une-information-concernant-quatre-cas-graves-de-coronavirus_6033248_4355770.html",
+          "reviewDate": "2020-03-16T10:35:05Z",
+          "textualRating": "FAUX",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Ronaldo a-t-il reconverti ses hôtels pour accueillir des malades liés au coronavirus ?",
+      "claimant": "Marca",
+      "claimDate": "2020-03-14T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Le Monde",
+            "site": "lemonde.fr"
+          },
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2020/03/16/coronavirus-la-fausse-rumeur-des-hotels-de-cristiano-ronaldo-transformes-en-hopitaux_6033307_4355770.html",
+          "reviewDate": "2020-03-16T18:21:41Z",
+          "textualRating": "FAUX",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Un masque de protection aussi efficace que ceux vendus en pharmacie",
+      "claimDate": "2020-03-08T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/les-masques-faits-maison-peu-efficaces-pour-proteger-du-coronavirus-dapres-le-ministere-francais-de",
+          "reviewDate": "2020-03-18T19:45:00Z",
+          "textualRating": "Attention",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "La patinoire de Mulhouse a été transformée en morgue",
+      "claimant": "Sources multiples",
+      "claimDate": "2020-03-19T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/coronavirus-non-la-patinoire-de-mulhouse-na-pas-ete-transformee-en-morgue",
+          "reviewDate": "2020-03-20T14:30:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Le coronavirus n’est qu’un « gros rhume monté en épingle »",
+      "claimant": "Plusieurs sites internet",
+      "claimDate": "2020-02-03T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Le Monde",
+            "site": "lemonde.fr"
+          },
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2020/03/10/coronavirus-peut-on-vraiment-dire-que-le-covid-19-n-est-qu-un-gros-rhume-monte-en-epingle_6032483_4355770.html",
+          "reviewDate": "2020-03-10T11:31:20Z",
+          "textualRating": "C’est plus compliqué",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "« Le chômage partiel est moins bien indemnisé que le chômage »",
+      "claimant": "Plusieurs pages Facebook",
+      "claimDate": "2020-03-23T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Le Monde",
+            "site": "lemonde.fr"
+          },
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2020/03/30/non-le-chomage-partiel-n-est-pas-moins-bien-indemnise-que-le-chomage_6034937_4355770.html",
+          "reviewDate": "2020-03-30T15:52:35Z",
+          "textualRating": "FAUX",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "La France a annoncé le 16 mars le passage au stade 4 du plan de lutte contre le coronavirus",
+      "claimant": "actuainfo.info",
+      "claimDate": "2020-03-15T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/coronavirus-non-la-france-ne-va-pas-passer-lundi-16-mars-au-stade-4",
+          "reviewDate": "2020-03-16T18:00:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Un test respiratoire permet de détecter le nouveau coronavirus",
+      "claimant": "Pierre Deleaz",
+      "claimDate": "2020-03-17T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/retenir-son-souffle-ne-permet-pas-de-detecter-si-une-personne-est-atteinte-du-covid-19-selon-loms",
+          "reviewDate": "2020-03-17T16:43:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Le nouveau coronavirus causant le Covid-19 a été inventé par l'Institut PAsteur",
+      "claimant": "Sources multiples",
+      "claimDate": "2020-03-18T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/non-le-coronavirus-detecte-en-chine-na-pas-ete-cree-puis-brevete-par-linstitut-pasteur",
+          "reviewDate": "2020-03-18T11:21:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Les informations suivantes décrivent exactement ce qu'est le coronavirus",
+      "claimant": "multiple sources",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/coronavirus-la-liste-des-pretendus-conseils-simples-et-accessibles-tous-ne-pas-suivre",
+          "reviewDate": "2020-03-10T18:25:00Z",
+          "textualRating": "Ces conseils à suivre pour lutter contre le coronavirus sont faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Le coronavirus est l'équivalent d'une grosse grippe",
+      "claimant": "Multiples",
+      "claimDate": "2020-02-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/coronavirus-et-grippe-ce-nest-pas-la-meme-chose",
+          "reviewDate": "2020-03-11T19:25:00Z",
+          "textualRating": "Partiellement faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Des médecins sénégalais ont élaboré un \"serum\" contre le coronavirus",
+      "claimant": "sources multiples",
+      "claimDate": "2020-02-10T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/non-des-medecins-senegalais-nont-pas-decouvert-de-traitement-contre-le-coronavirus",
+          "reviewDate": "2020-03-12T17:07:00Z",
+          "textualRating": "Non",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Peut-on affirmer qu’« une seconde souche du coronavirus tueur » se propage ?",
+      "claimant": "Sante Plus Mag",
+      "claimDate": "2020-03-09T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Le Monde",
+            "site": "lemonde.fr"
+          },
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2020/03/13/pourquoi-il-est-trompeur-de-dire-qu-une-seconde-souche-du-coronavirus-tueur-se-propage_6032932_4355770.html",
+          "reviewDate": "2020-03-13T11:41:17Z",
+          "textualRating": "Trompeur",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Peut-on arrêter le coronavirus avec des boissons chaudes ?",
+      "claimant": "Plusieurs sites internet",
+      "claimDate": "2020-01-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Le Monde",
+            "site": "lemonde.fr"
+          },
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2020/03/10/non-boire-des-boissons-chaudes-ne-neutralise-pas-le-coronavirus_6032531_4355770.html",
+          "reviewDate": "2020-03-10T19:53:34Z",
+          "textualRating": "FAUX",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Boire des \"gorgées d'eau\" toutes les 15 minutes protège du coronavirus",
+      "claimant": "Sources multiples",
+      "claimDate": "2020-03-03T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/non-boire-de-leau-toutes-les-15-minutes-ne-protege-pas-du-coronavirus",
+          "reviewDate": "2020-03-09T17:05:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Le coronavirus qui sévit en Chine a été inventé en laboratoire et un brevet existe sur ce virus",
+      "claimant": "Jordan Sather",
+      "claimDate": "2020-01-21T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Radio-Canada.ca",
+            "site": "ici.radio-canada.ca"
+          },
+          "url": "https://ici.radio-canada.ca/nouvelle/1493617/coronavirus-laboratoire-complot-brevet-vaccin-bill-gates",
+          "title": "Non, le coronavirus n'a pas été inventé en laboratoire | Coronavirus",
+          "reviewDate": "2020-01-27T00:00:00Z",
+          "textualRating": "Faux",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "L'iran vient de trouver un remède contre le coronavirus",
+      "claimant": "Multiples",
+      "claimDate": "2020-03-10T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/non-ce-produit-base-de-plantes-na-pas-ete-approuve-par-liran-comme-remede-contre-le-coronavirus",
+          "reviewDate": "2020-03-10T17:00:00Z",
+          "textualRating": "Trompeur",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Les fripes exportées en Afrique transportent le coronavirus",
+      "claimant": "Multiples sources",
+      "claimDate": "2020-03-11T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/non-les-vetements-doccasion-envoyes-en-afrique-ne-peuvent-pas-transmettre-le-coronavirus",
+          "reviewDate": "2020-03-13T17:10:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Boire de l'eau bouillie à l'ail permet de se guérir du nouveau coronavirus",
+      "claimant": "Sources multiples",
+      "claimDate": "2020-03-01T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/non-boire-de-leau-bouillie-avec-de-lail-ne-permet-pas-de-guerir-du-nouveau-coronavirus-selon-les",
+          "reviewDate": "2020-03-13T12:20:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Cette capture d'écran annonce un cas de coronavirus dans un lycée à Douai",
+      "claimant": "Multiples",
+      "claimDate": "2020-03-10T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/cette-capture-decran-annoncant-un-cas-de-coronavirus-dans-un-lycee-douai-est-un-photomontage",
+          "reviewDate": "2020-03-11T16:00:00Z",
+          "textualRating": "Photomontage",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "« Pour le moment, Trump a annoncé que la Roche Medical Company lancerait le vaccin dimanche prochain et des millions de doses sont prêtes. »",
+      "claimant": "Mèmes sur Facebook",
+      "claimDate": "2020-03-25T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "20 Minutes",
+            "site": "20minutes.fr"
+          },
+          "url": "https://www.20minutes.fr/monde/2747863-20200325-coronavirus-non-trump-annonce-roche-apprete-lancer-vaccin-contre-covid-19",
+          "reviewDate": "2020-03-25T00:00:00Z",
+          "textualRating": "C’est faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Une note confidentielle annonçant des mesures liées à la lutte contre la propagation du coronavirus",
+      "claimant": "Multiples",
+      "claimDate": "2020-02-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/coronavirus-attention-ce-communique-du-ministere-de-linterieur-est-un-faux",
+          "reviewDate": "2020-03-04T09:39:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Didier Raoult a incité les Africains à ne pas prendre un vaccin contre le coronavirus",
+      "claimant": "Multiple sources",
+      "claimDate": "2020-03-31T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/non-didier-raoult-na-pas-incite-les-africains-ne-pas-prendre-un-vaccin-contre-le-coronavirus",
+          "reviewDate": "2020-03-31T18:48:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Une vidéo montre une cohue dans un magasin Aldi en Allemagne à cause du Coronavirus",
+      "claimant": "Un internaute sur Facebook",
+      "claimDate": "2020-03-01T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Le Monde",
+            "site": "lemonde.fr"
+          },
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2020/03/03/une-video-de-cohue-dans-un-supermarche-en-allemagne-qui-n-a-rien-a-voir-avec-le-coronavirus_6031691_4355770.html",
+          "reviewDate": "2020-03-03T14:53:18Z",
+          "textualRating": "FAUX",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Nostradamus a prédit l’épidémie de coronavirus dans ses Prophéties en 1555",
+      "claimDate": "2020-03-15T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Radio-Canada.ca",
+            "site": "ici.radio-canada.ca"
+          },
+          "url": "https://ici.radio-canada.ca/nouvelle/1674251/coronavirus-covid-nostradamus-prediction-faux",
+          "title": "Non, Nostradamus n'a pas prédit la pandémie de COVID-19 ...",
+          "reviewDate": "2020-03-18T00:00:00Z",
+          "textualRating": "Faux",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "La Fondation Bill & Melinda Gates et d’autres ont prédit jusqu’à 65 millions de décès liés au Coronavirus – Dans une simulation réalisée il y a 3 mois !",
+      "claimant": "https://www.nouvelordremondial.cc/2020/01/28/la-fondation-bill-melinda-gates-et-dautres-ont-predit-jusqua-65-millions-de-deces-lies-au-coronavirus-dans-une-simulation-realisee-il-y-a-3-mois",
+      "claimDate": "2020-01-30T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "20 Minutes",
+            "site": "20minutes.fr"
+          },
+          "url": "https://www.20minutes.fr/monde/2707359-20200131-coronavirus-non-fondation-bill-melinda-gates-predit-jusqu-65-millions-deces-lies-souche-chinoise",
+          "reviewDate": "2020-01-30T00:00:00Z",
+          "textualRating": "C’est faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Melinda Gates déclare : \" C'est avec un cœur rempli de tristesse que j'annonce au monde entier que mon mari est entrain de préparer un grand poison à travers le vaccin pour détruire les Africains \"",
+      "claimant": "La citation est partagée sur plusieurs comptes et pages Facebook",
+      "claimDate": "2020-04-02T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "20 Minutes",
+            "site": "20minutes.fr"
+          },
+          "url": "https://www.20minutes.fr/high-tech/2753455-20200402-coronavirus-non-melinda-gates-annonce-mari-bill-preparait-vaccin-detruire-africains",
+          "reviewDate": "2020-04-02T00:00:00Z",
+          "textualRating": "C’est faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Cette vidéo est censée montrer des cadavres dans la rue pendant l'épidémie du nouveau coronavirus à Wuhan",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Libération",
+            "site": "liberation.fr"
+          },
+          "url": "https://www.liberation.fr/checknews/2020/02/19/coronavirus-non-cette-video-ne-montre-pas-des-cadavres-dans-les-rues-de-wuhan_1778790",
+          "reviewDate": "2020-02-18T17:49:03Z",
+          "textualRating": "Il s'agit de personnes dormant dans la rue, à Shenzhen. .",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Des médias et internautes soupçonnent le Premier ministre slovaque d'avoir le coronavirus.",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Libération",
+            "site": "liberation.fr"
+          },
+          "url": "https://www.liberation.fr/checknews/2020/02/25/non-le-premier-ministre-slovaque-n-a-pas-le-coronavirus_1779540",
+          "reviewDate": "2020-02-25T11:49:01Z",
+          "textualRating": "Le gouvernement slovaque dément formellement.",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Cette photo montre-t-elle des cercueils de personnes mortes du coronavirus ?",
+      "claimant": "Plusieurs internautes sur Facebook",
+      "claimDate": "2020-03-18T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Le Monde",
+            "site": "lemonde.fr"
+          },
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2020/03/20/cette-photo-montrant-des-cercueils-en-italie-n-a-rien-a-voir-avec-l-epidemie-de-covid-19_6033801_4355770.html",
+          "reviewDate": "2020-03-20T10:37:35Z",
+          "textualRating": "FAUX",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Un homme prétend avoir les preuves que l'Institut Pasteur a \"inventé\" le virus responsable du Covid-19",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Libération",
+            "site": "liberation.fr"
+          },
+          "url": "https://www.liberation.fr/checknews/2020/03/18/non-le-covid-19-n-a-pas-ete-invente-par-l-institut-pasteur_1782209",
+          "reviewDate": "2020-03-18T15:29:28Z",
+          "textualRating": "Tout est faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "La patinoire a été réquisitionnée pour stocker les morts du coronavirus",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Libération",
+            "site": "liberation.fr"
+          },
+          "url": "https://www.liberation.fr/checknews/2020/03/19/covid-19-non-la-patinoire-de-mulhouse-n-a-pas-ete-transformee-en-morgue_1782311",
+          "reviewDate": "2020-03-19T09:53:59Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "En Allemagne, les gens font la queue devant ce supermarché pour faire des stocks à cause du coronavirus",
+      "claimant": "https://www.facebook.com/philippe.wateaux/videos/621247901789382/",
+      "claimDate": "2020-03-03T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "20 Minutes",
+            "site": "20minutes.fr"
+          },
+          "url": "https://www.20minutes.fr/high-tech/2731351-20200303-non-video-montre-foule-devant-supermarche-allemagne-cause-coronavirus",
+          "reviewDate": "2020-03-03T00:00:00Z",
+          "textualRating": "C’est faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Il faudrait éviter de sortir de chez soi jusqu'au 3 avril, car on atteint un « stade d'infection maximale »",
+      "claimDate": "2020-03-22T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Radio-Canada.ca",
+            "site": "ici.radio-canada.ca"
+          },
+          "url": "https://ici.radio-canada.ca/nouvelle/1689796/message-avertissement-incubation-covid19-coronavirus-pire-faux",
+          "title": "Attention à ce message sur la période d'incubation de la COVID-19 ...",
+          "reviewDate": "2020-03-30T00:00:00Z",
+          "textualRating": "Partiellement faux",
+          "languageCode": "en"
+        }
+      ]
+    }
+  ]
+}
