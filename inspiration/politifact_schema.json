@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "ClaimReview",
+  "datePublished": "2018-01-05",
+  "url": "http://www.politifact.com/punditfact/statements/2018/jan/05/new-century-times/white-house-staffers-removed-job-subject-false/",
+  "claimReviewed": "Breaking: FBI just raided the White House, 6 people thrown out.",
+  "claimUrlOriginal": "http://info.nct.news/2017/12/30/breaking-fbi-just-raided-the-white-house-high-ranking-officials-thrown-out/",
+  "claimUrl": ["https://www.vote.us.org/memo/thread/3419/fbi-just-raided-the-white-house-6-people-thrown-out/"],
+  "author":
+  {
+    "@type": "Organization",
+    "name": "PolitiFact",
+    "url": "http://www.politifact.com"
+  },
+  "itemReviewed":
+  {
+    "@type": "CreativeWork",
+    "author":
+    {
+      "@type": "Person",
+      "name": "New Century Times",
+      "jobTitle": "website",
+      "sameAs": "http://newcenturytimes.com/"
+    },
+    "datePublished": "2017-12-30"
+  },
+  "reviewRating":
+  {
+    "@type": "Rating",
+    "ratingValue": "2",
+    "bestRating": "7",
+    "worstRating": "1",
+    "alternateName": "False"
+  }
+}
