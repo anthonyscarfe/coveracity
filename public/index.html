@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+        <link rel="stylesheet" href="style.css" type="text/css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    </head>
+
+    <body>
+
+        <nav class="blue-grey">
+            <div class="nav-wrapper">
+            <a href="#!" class="brand-logo"><b>Cov<sup>19</sup></b>eracity</a>
+            <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+            <ul class="right hide-on-med-and-down">
+                <li><a href="#">asd</a></li>
+                <li><a href="#">asd</a></li>
+                <li><a href="#">sdfsd</a></li>
+                <li><a href="#">dffdg</a></li>
+            </ul>
+            </div>
+        </nav>
+
+        <ul class="sidenav" id="mobile-demo">
+            <li><a href="#">asda</a></li>
+            <li><a href="#">fdg</a></li>
+            <li><a href="#">asda</a></li>
+            <li><a href="#">dsf</a></li>
+        </ul>
+
+        <div class="container blue-grey lighten-5">
+            <div class="custom-main-area">
+                <div class="row">
+                    <div class="col s12">
+                        <div class="card-panel blue-grey lighten-5">
+                            
+                            <nav class="blue-grey">
+                                <div class="nav-wrapper">
+                                <form>
+                                    <div class="input-field">
+                                    <input id="search" type="search" required>
+                                    <label class="label-icon" for="search"><i class="material-icons">search</i></label>
+                                    <i class="material-icons">close</i>
+                                    </div>
+                                </form>
+                                </div>
+                            </nav>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col s12">
+                        <div class="card-panel blue-grey lighten-5 results-container">
+                            
+                            0 results
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <script
+            src="https://code.jquery.com/jquery-3.4.1.min.js"
+            integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+            crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+        <script src="app.js"></script>
+        <script>
+            $(document).ready(function() {
+                new App();
+            });
+        </script>
+    </body>
+</html>
