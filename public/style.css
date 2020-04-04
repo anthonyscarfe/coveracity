@@ -1,0 +1,30 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    background-color: #eceff1;
+}
+
+.brand-logo {
+    margin-left: 24px;
+}
+
+.custom-main-area {
+    margin-top: 120px;
+} 
+
+.fake a {
+    color: white;
+    text-decoration:none;
+}
+.card-action a {
+    color: #333;
+}
+
+.hidden-card {
+    display: none;
+}
+
+.card-content img {
+    float: right;
+    height: 120px;
+}
