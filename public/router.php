@@ -2,11 +2,14 @@
 
 header('Access-Control-Allow-Origin: *');
 
-require_once("../private/Search.php");
+require_once(__DIR__."/../private/Search.php");
 
 if(isset($_GET['q']))
 {
-    echo json_encode(Search::search($_GET['q']));
+    $searchInstance = new Search();
+    echo json_encode($searchInstance->search($_GET['q']));
 }
-
-exit;
+else 
+{
+    exit;
+}
